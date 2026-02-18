@@ -1,0 +1,10 @@
+div{
+  background: linear-gradient(0deg, #0062ff 0%, #94ffd1 100%);
+  font-size:30px;
+}
+h1{
+  background: linear-gradient(0deg, #c8ff00 0%, #09dc7a 100%);
+}
+body{
+  background: linear-gradient(0deg, #ff3300 0%, #0965dc 100%);
+}

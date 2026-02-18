@@ -1,0 +1,9 @@
+div{
+  width:80%;
+  height:300px;
+background: linear-gradient(0deg, #130606 9%, #5dfd08 100%);
+ font-size:30px;
+}
+body{
+background: #ffffff url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUYAit7e9Q8mvfHGPp7NTl0MuVAsFPTTmNA&s) center center/auto repeat;
+}

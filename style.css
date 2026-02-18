@@ -1,0 +1,69 @@
+#Roblox{
+  width: 98%;
+    height:avto;
+  background: linear-gradient(0deg, #00ffbf 8%, #10c90d 100%);
+  padding: 1%;
+  font-size: 30px;
+  float: left;
+}
+#menu{
+  width:15%;
+  height:auto;
+  background-color: lightgreen;
+  float: left;
+}
+#contet{
+  width:85%;
+    height: auto;
+    background-color:yellow ;
+  float: left;
+}
+body{
+background: linear-gradient(0deg, #ffbb00 38%, #0dbdc9 78%);
+}
+
+
+.post{
+  width:96%;
+  height:auto;
+  background-color: white;
+  margin: 1%;
+  padding:1%;
+  float: left;
+  background-color: #d5e212;
+transition: background-color 1s ease 0s;
+}
+
+.postimge{
+   width: 25%;
+   height: auto;
+   background-color: lightgreen;
+   margin:2%;
+  float: left
+}
+h1{
+  background: linear-gradient(0deg, #ff4000 38%, #0dbdc9 78%);
+  height: 50px;
+}
+.post:hover{
+  background: linear-gradient(0deg, #ff4000 38%, #0dbdc9 78%);
+  width: 35%;
+  font-size: 30px;
+  border-radius: 35px;
+  padding: 10px;
+}
+#menu ul li{
+  color: gold;
+  background-color: red;
+  width: 80%;
+  padding: 2%;
+  margin: 2%;
+  display: none;
+}
+#menu:hover ul li{
+  display:block;
+}
+
+#menu ul li ul{
+  
+}

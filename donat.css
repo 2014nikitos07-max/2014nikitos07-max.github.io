@@ -1,0 +1,15 @@
+h1{
+background: linear-gradient(0deg, #fff700 0%, #fffb88 100%);
+  color: red;
+  width: 6%
+}
+div{
+background: linear-gradient(0deg, #fff700 0%, #fffb88 100%);
+  width: 70%;
+  height: auto;
+  font-size: 30px;
+  color: red;
+}
+body{
+background: #ffffff url(https://avatars.mds.yandex.net/i?id=f9cdaeaa5c31500c703dcde826ea2642d5e4360a-13214462-images-thumbs&n=13) center bottom/auto repeat local;
+}

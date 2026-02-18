@@ -1,0 +1,19 @@
+.block{
+  width: 80%;
+  background-color: lightgreen;
+  padding: 1%;
+  font-size: 30px;
+  border: 7px dashed #51bf22;
+  margin: 5%;
+  height: 300px;
+  font-size: 30px;
+  textalign: center;
+  height: auto;
+}
+body{
+background: green;
+}
+h1{
+  color: lightgreen;
+  background-color: green;
+}
