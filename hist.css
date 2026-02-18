@@ -1,6 +1,6 @@
 div{
   width:80%;
-  height:300px;
+  height:auto;
   background: linear-gradient(0deg, #4dff00 0%, #de6b0d 86%);
   font-size:30px;
 }
